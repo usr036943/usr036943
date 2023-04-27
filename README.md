@@ -11,7 +11,7 @@
 | "Аналитик данных" |АНО ДПО «Образовательные технологии Яндекса». | online на платформе Яндекс.Практикум | 2023 | [Диплом](https://github.com/usr036943/usr036943/blob/main/images/Каримов%20Ильдар%20Зинурович_20232DA00256.pdf) |
 | "Практический курс для развития публичных выступлений"| Школа деловых коммуникаций. Автор и преподаватель - Татьяна Джумма. | offline | 2019 | [Сертификат]() | 
 
-[Портфолио по курсу "Аналитик данных"](https://github.com/usr036943/yandex_practicum_projects).
+## [Портфолио по курсу "Аналитик данных"](https://github.com/usr036943/yandex_practicum_projects).
 
 <!--
 **usr036943/usr036943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

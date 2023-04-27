@@ -1,4 +1,8 @@
-### Hi there 👋
+### Привет! 👋
+
+Я Ильдар Каримов, начинающий аналитик данных. 
+
+
 
 <!--
 **usr036943/usr036943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

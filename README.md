@@ -16,6 +16,10 @@
 
 ### Примеры дашбордов можно посмотреть [тут](https://github.com/usr036943/Dashboards).
 
+Связаться со мной: 
+- [Телеграмм](), 
+- {Почта]().
+
 <!--
 **usr036943/usr036943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

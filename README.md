@@ -17,8 +17,9 @@
 ### Примеры дашбордов можно посмотреть [тут](https://github.com/usr036943/Dashboards).
 
 Связаться со мной: 
-- [Телеграмм](), 
-- [Почта]().
+- [![Telegram Badge](https://img.shields.io/badge/-karimovildar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/9869783934) 
+- [![Gmail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
+
 
 <!--
 **usr036943/usr036943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

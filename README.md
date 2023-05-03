@@ -20,6 +20,7 @@
 - [![Telegram Badge](https://img.shields.io/badge/-usr036943-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/usr036943) 
 - [![Gmail Badge](https://img.shields.io/badge/-@mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
 
+[Сcылка на резюме в hh.ru](https://ufa.hh.ru/applicant/resumes/view?resume=3ec90ef6ff0bc734450039ed1f375047543647)
 
 <!--
 **usr036943/usr036943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

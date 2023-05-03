@@ -17,7 +17,7 @@
 ### Примеры дашбордов можно посмотреть [тут](https://github.com/usr036943/Dashboards).
 
 Связаться со мной: 
-- [![Telegram Badge](https://img.shields.io/badge/-karimovildar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/9869783934) 
+- [![Telegram Badge](https://img.shields.io/badge/-usr036943-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/usr036943) 
 - [![Gmail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
 
 

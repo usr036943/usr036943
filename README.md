@@ -18,7 +18,7 @@
 
 Связаться со мной: 
 - [![Telegram Badge](https://img.shields.io/badge/-usr036943-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/usr036943) 
-- [![Gmail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
+- [![Gmail Badge](https://img.shields.io/badge/-@mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
 
 
 <!--

@@ -5,7 +5,7 @@
 На данный момент в моем бэкграунде более 10 завершенных проектов и более 100 решенных SQL запросов с примением базовых запросов, фильтрации, агрегации, группировки данных, подзапросов, джойнов и оконных функций.  
 
 Мои навыки:
-`Python`, `Pandas`, `SQL`, `PostgreSQL`, `A/B тесты`, `MS Excel`, `Tableau`, `MS PowerPoint`, `Redash`.
+`Python`, `Pandas`, `SQL`, `PostgreSQL`, `A/B тесты`, `Jupyter Notebook`, `Tableau`, `MS PowerPoint`, `MS Excel`, `Redash`.
 
 Пройденные мной курсы:
 

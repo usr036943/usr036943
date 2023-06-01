@@ -27,6 +27,6 @@
 - [![Telegram Badge](https://img.shields.io/badge/-usr036943-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/usr036943) 
 - [![Gmail Badge](https://img.shields.io/badge/-karim_ildar@mail.ru-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
 
-[Моё резюме](https://usr036943.github.io/resume-karimov-ildar.github.io/#каримов-ильдар) 
+[Моё резюме](https://usr036943.github.io/karimov-ildar/) 
 
 [Сcылка на резюме в hh.ru](https://ufa.hh.ru/applicant/resumes/view?resume=3ec90ef6ff0bc734450039ed1f375047543647)

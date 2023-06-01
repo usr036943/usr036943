@@ -5,14 +5,15 @@
 На данный момент в моем бэкграунде более 10 завершенных проектов и более 100 решенных SQL запросов с примением базовых запросов, фильтрации, агрегации, группировки данных, подзапросов, джойнов и оконных функций.  
 
 Мои навыки:
-`Python`, `Pandas`, `SQL`, `PostgreSQL`, `A/B тесты`, `Jupyter Notebook`, `Tableau`, `MS PowerPoint`, `MS Excel`, `Redash`.
+`Python`, `Pandas`, `SQL`, `PostgreSQL`, `MS Excel`, `Tableau`, `MS PowerPoint`, `Atlassian Confluence`, `Trello`, `Jira`, `Redash`,
+`github`, `Jupyter Notebook`
 
 Пройденные мной курсы:
 
 | Название курса | Проводившая организация | Формат | Период обучения | Документ об окончании |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |:---------------------- |
 | "Excel для работы" | АНО ДПО «Образовательные технологии Яндекса». | online на платформе Яндекс.Практикум |  |  |
-| «Симулятор SQL» | Автор и преподаватель - Анатолий Карпов. | online на сайте lab.karpov.courses | 2023 |  |
+| "Симулятор SQL" | Автор и преподаватель - Анатолий Карпов. | online на сайте lab.karpov.courses | 2023 |  |
 | "Основы статистики" | Институт биоинформатики. Автор и преподаватель - Анатолий Карпов. | online на платформе Stepik |2023 | [Сертификат](https://github.com/usr036943/usr036943/blob/main/Документы/certificate-stepik-76-7953a64.pdf) |
 | "Аналитик данных" |АНО ДПО «Образовательные технологии Яндекса». | online на платформе Яндекс.Практикум | 2022-2023 | [Диплом](https://github.com/usr036943/usr036943/blob/main/Документы/diplom-yapraktikum-20232DA00256.pdf) |
 | "Практический курс для развития публичных выступлений"| Школа деловых коммуникаций. Автор и преподаватель - Татьяна Джумма. | offline | 2019 | [Сертификат](https://github.com/usr036943/usr036943/blob/main/Документы/certificate-djumma.pdf) | 
@@ -24,7 +25,7 @@
 
 Связаться со мной: 
 - [![Telegram Badge](https://img.shields.io/badge/-usr036943-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/usr036943) 
-- [![Gmail Badge](https://img.shields.io/badge/-@mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
+- [![Gmail Badge](https://img.shields.io/badge/-karim_ildar@mail.ru-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
 
 [Моё резюме](https://usr036943.github.io/resume-karimov-ildar.github.io/#каримов-ильдар) 
 

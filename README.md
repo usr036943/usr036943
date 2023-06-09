@@ -26,6 +26,7 @@
 Связаться со мной: 
 - [![Telegram Badge](https://img.shields.io/badge/-usr036943-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/usr036943) 
 - [![Gmail Badge](https://img.shields.io/badge/-karim_ildar@mail.ru-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
+- [![Instagram Badge](https://img.shields.io/badge/-karim_ildar-white?style=flat&logo=Instagram&logoColor=B4068E)](https://instagram.com/karim_ildar)
 
 [Моё резюме](https://usr036943.github.io/karimov-ildar/) 
 

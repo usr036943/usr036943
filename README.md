@@ -6,7 +6,7 @@
 
 Мои навыки:
 `Python`, `Pandas`, `SQL`, `PostgreSQL`, `MS Excel`, `Tableau`, `MS PowerPoint`, `Atlassian Confluence`, `Trello`, `Jira`, `Redash`,
-`github`, `Jupyter Notebook`
+`github`, `Jupyter Notebook`, `PowerBI`
 
 Пройденные мной курсы:
 

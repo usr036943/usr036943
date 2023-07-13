@@ -19,11 +19,13 @@
 | "Практический курс для развития публичных выступлений"| Школа деловых коммуникаций. Автор и преподаватель - Татьяна Джумма. | offline | 2019 | [Сертификат](https://github.com/usr036943/usr036943/blob/main/Документы/certificate-djumma.pdf) | 
 | "Предпринимательство в сфере информационных технологий и производства"| Министрество молодежной политики и спорта Республики Башкортостан. | offline | 2017 | [Сертификат](https://github.com/usr036943/usr036943/blob/main/Документы/certificate-predprinimatel.pdf) | 
 
-### [Портфолио](https://github.com/usr036943/yandex_practicum_projects) по курсу "Аналитик данных".
+### [Портфолио по курсу "Аналитик данных".](https://github.com/usr036943/yandex_practicum_projects)
 
-### Примеры дашбордов можно посмотреть [тут](https://github.com/usr036943/Dashboards).
+### [Дашборды.](https://github.com/usr036943/Dashboards)
 
-Связаться со мной: 
+### [Решение тестовых SQL запросов.](https://github.com/usr036943/SQL-test-tasks/tree/main/folder%201)
+
+## Связаться со мной: 
 - [![Telegram Badge](https://img.shields.io/badge/-usr036943-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/usr036943) 
 - [![Gmail Badge](https://img.shields.io/badge/-karim_ildar@mail.ru-blue?style=flat&logo=Mail&logoColor=white)](mailto:karim_ildar@mail.ru)
 - [![Instagram Badge](https://img.shields.io/badge/-karim_ildar-white?style=flat&logo=Instagram&logoColor=B4068E)](https://instagram.com/karim_ildar)
